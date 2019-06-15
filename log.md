@@ -9,3 +9,13 @@
 **Link(s) to work**
 
 https://github.com/raidzklart/personal-site
+
+### Day 2: June 15, Saturday
+
+**Today's Progress**: I've finished customising the layout for the main, posts and individual post pages.
+
+**Thoughts** Small frustration with finding assets from inside posts but nothing a google can't fix! Now just need to sort the copy.
+
+**Link(s) to work**
+
+https://github.com/raidzklart/personal-site
