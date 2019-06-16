@@ -19,3 +19,13 @@ https://github.com/raidzklart/personal-site
 **Link(s) to work**
 
 https://github.com/raidzklart/personal-site
+
+### Day 3: June 16, Sunday
+
+**Today's Progress**: I did the markup for the Free Code Camp Technical Documentation Page project and added the Materialize CSS framework. 
+
+**Thoughts** Lack of motivation today because I was tired but I managed to push through anyway.
+
+**Link(s) to work**
+
+https://github.com/raidzklart/FCC-Technical-Documentation-Page
