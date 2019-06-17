@@ -29,3 +29,13 @@ https://github.com/raidzklart/personal-site
 **Link(s) to work**
 
 https://github.com/raidzklart/FCC-Technical-Documentation-Page
+
+### Day 4: June 17, Monday
+
+**Today's Progress**: Removed the Materialize CSS framework and learnt about/implemented CSS grid.
+
+**Thoughts** Very motivated today and I now feel much more confident about using CSS grid!
+
+**Link(s) to work**
+
+https://github.com/raidzklart/FCC-Technical-Documentation-Page
