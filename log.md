@@ -39,3 +39,13 @@ https://github.com/raidzklart/FCC-Technical-Documentation-Page
 **Link(s) to work**
 
 https://github.com/raidzklart/FCC-Technical-Documentation-Page
+
+### Day 5: June 18, Tuesday
+
+**Today's Progress**: Started the Random Quote Machine challenge using React.
+
+**Thoughts** Today I had to do some of the react exercises on Free Code Camp in order to start the challenge.
+
+**Link(s) to work**
+
+https://github.com/raidzklart/FCC-Random-Quote-Machine
