@@ -49,3 +49,13 @@ https://github.com/raidzklart/FCC-Technical-Documentation-Page
 **Link(s) to work**
 
 https://github.com/raidzklart/FCC-Random-Quote-Machine
+
+### Day 6: June 19, Wednesday
+
+**Today's Progress**: Added CSS and logic
+
+**Thoughts** Felt a bit hacky but managed to finish the quote machine.
+
+**Link(s) to work**
+
+https://github.com/raidzklart/FCC-Random-Quote-Machine
