@@ -59,3 +59,13 @@ https://github.com/raidzklart/FCC-Random-Quote-Machine
 **Link(s) to work**
 
 https://github.com/raidzklart/FCC-Random-Quote-Machine
+
+### Day 7: June 20, Thursday
+
+**Today's Progress**: From zero to all tests passing.
+
+**Thoughts** Tomorrow styling needs to be done!
+
+**Link(s) to work**
+
+https://github.com/raidzklart/fcc-markdown-previewer
