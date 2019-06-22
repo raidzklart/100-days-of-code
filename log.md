@@ -69,3 +69,13 @@ https://github.com/raidzklart/FCC-Random-Quote-Machine
 **Link(s) to work**
 
 https://github.com/raidzklart/fcc-markdown-previewer
+
+### Day 8: June 21, Friday
+
+**Today's Progress**: Edited copy and fixed header for smaller devices
+
+**Thoughts** Hunting bugs is frustrating
+
+**Link(s) to work**
+
+https://github.com/raidzklart/personal-site
