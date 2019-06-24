@@ -79,3 +79,12 @@ https://github.com/raidzklart/fcc-markdown-previewer
 **Link(s) to work**
 
 https://github.com/raidzklart/personal-site
+
+### Day 9: June 23, Sunday
+
+**Today's Progress**: Edited CSS for my mardown previewer
+
+**Thoughts** I still need to work on my css.
+
+**Link(s) to work**
+https://github.com/raidzklart/fcc-markdown-previewer
