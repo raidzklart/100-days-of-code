@@ -98,7 +98,7 @@ https://github.com/raidzklart/fcc-markdown-previewer
 **Link(s) to work**
 https://github.com/raidzklart/fcc-calculator
 
-### Day 10: June 26, Wednesday
+### Day 11: June 26, Wednesday
 
 **Today's Progress**: Continued the Free Code Camp Calculator project.
 
