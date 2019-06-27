@@ -106,3 +106,12 @@ https://github.com/raidzklart/fcc-calculator
 
 **Link(s) to work**
 https://github.com/raidzklart/fcc-calculator
+
+### Day 12: June 27, Thursday
+
+**Today's Progress**: Implemented CSS and finished most of the logic for the Free Code Camp Calculator project.
+
+**Thoughts** There's one test that won't pass. I'll come back to it.
+
+**Link(s) to work**
+https://github.com/raidzklart/fcc-calculator
