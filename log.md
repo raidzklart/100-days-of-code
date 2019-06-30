@@ -115,3 +115,12 @@ https://github.com/raidzklart/fcc-calculator
 
 **Link(s) to work**
 https://github.com/raidzklart/fcc-calculator
+
+### Day 13: June 29, Saturday
+
+**Today's Progress**: Started the FCC Pomodoro Clock project.
+
+**Thoughts** Implemented the markup and layout. Really getting the hang of grid now!
+
+**Link(s) to work**
+https://github.com/raidzklart/FCC-Pomodoro-Clock
