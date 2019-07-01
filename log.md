@@ -124,3 +124,12 @@ https://github.com/raidzklart/fcc-calculator
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+### Day 14: June 30, Sunday
+
+**Today's Progress**: Updated CSS on the FCC Pomodoro Clock project.
+
+**Thoughts** Confidence keeps on growing with CSS. Need to make it responsive still and apply JS logic.
+
+**Link(s) to work**
+https://github.com/raidzklart/FCC-Pomodoro-Clock
