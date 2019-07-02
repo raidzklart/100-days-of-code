@@ -133,3 +133,12 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+### Day 15: July 01, Monday
+
+**Today's Progress**: Started implementing logic for the FCC Pomodoro Clock project.
+
+**Thoughts** Need to figure out why the timer takes so long to start when my toggle function runs.
+
+**Link(s) to work**
+https://github.com/raidzklart/FCC-Pomodoro-Clock
