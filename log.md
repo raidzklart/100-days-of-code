@@ -142,3 +142,12 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+### Day 16: July 02, Tuesday
+
+**Today's Progress**: Continued implementing logic for the FCC Pomodoro Clock project.
+
+**Thoughts** Figured out that moment.js seems to need milliseconds to work properly and that React prefers fat arrows when using setInterval. Tomorrow I'll work on getting the timer to change to a break timer when the session ends.
+
+**Link(s) to work**
+https://github.com/raidzklart/FCC-Pomodoro-Clock
