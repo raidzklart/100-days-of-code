@@ -151,3 +151,12 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+### Day 17: July 03, Wednesday
+
+**Today's Progress**: Continued implementing logic for the FCC Pomodoro Clock project.
+
+**Thoughts** Managed to get all tests to pass apart from the audio ones. I'll read about audio tomorrow and implement that.
+
+**Link(s) to work**
+https://github.com/raidzklart/FCC-Pomodoro-Clock
