@@ -160,3 +160,12 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+### Day 18: July 04, Thursday
+
+**Today's Progress**: Implemented the buzzer for the FCC Pomodoro Clock project.
+
+**Thoughts** All tests pass! Wasn't too hard to implement either.
+
+**Link(s) to work**
+https://github.com/raidzklart/FCC-Pomodoro-Clock
