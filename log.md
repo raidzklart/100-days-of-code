@@ -169,3 +169,12 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+### Day 19: July 06, Saturday
+
+**Today's Progress**: Started on the FCC Drum Machine project.
+
+**Thoughts** Just a bit of layout today.
+
+**Link(s) to work**
+https://github.com/raidzklart/fcc-drum-machine
