@@ -178,3 +178,18 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/fcc-drum-machine
+
+### Day 19, 20, 21: July 07-09, Sunday - Tuesday
+
+**Today's Progress**: Been making some of my old Free Code Camp projects responsive and deploying them to GitHub pages.
+
+**Thoughts**: Lots of media queries. gh-pages is useful for deployment to GitHub pages!
+
+**Link(s) to work**
+https://github.com/raidzklart/FCC-Pomodoro-Clock
+https://github.com/raidzklart/fcc-markdown-previewer
+https://github.com/raidzklart/fcc-calculator
+https://github.com/raidzklart/FCC-Random-Quote-Machine
+https://github.com/raidzklart/FCC-Technical-Documentation-Page
+https://github.com/raidzklart/FCC-Build-a-Tribute-Page
+https://github.com/raidzklart/FCC-Build-a-Survey-Form
