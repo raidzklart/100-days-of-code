@@ -193,3 +193,13 @@ https://github.com/raidzklart/FCC-Random-Quote-Machine
 https://github.com/raidzklart/FCC-Technical-Documentation-Page  
 https://github.com/raidzklart/FCC-Build-a-Tribute-Page  
 https://github.com/raidzklart/FCC-Build-a-Survey-Form
+
+
+### Day 22, 23: July 10-11, Wednesday, Thursday
+
+**Today's Progress**: Today I decided to start on the Hexbot [Noops Challenge](https://noopschallenge.com/).
+
+**Thoughts**: I've never really taken much notice to colour schemes (probably because I assume I'm 'bad at design'). This is a little project that will help me choose colours when I'm building websites.
+
+**Link(s) to work**
+https://github.com/raidzklart/hexbot
