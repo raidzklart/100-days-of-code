@@ -203,3 +203,12 @@ https://github.com/raidzklart/FCC-Build-a-Survey-Form
 
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
+
+### Day 24: July 12, Friday
+
+**Today's Progress**: Implemented the API request.
+
+**Thoughts**: The javascript fetch() is easier to work with that the JQuery $.get() IMO.
+
+**Link(s) to work**
+https://github.com/raidzklart/hexbot
