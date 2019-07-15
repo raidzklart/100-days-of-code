@@ -212,3 +212,12 @@ https://github.com/raidzklart/hexbot
 
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
+
+### Day 25: July 15, Monday
+
+**Today's Progress**: Started displaying the hexcodes on top of the colours.
+
+**Thoughts**: Some refactoring and styling still needed. 
+
+**Link(s) to work**
+https://github.com/raidzklart/hexbot
