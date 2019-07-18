@@ -221,3 +221,12 @@ https://github.com/raidzklart/hexbot
 
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
+
+### Day 26: July 17, Wednesday
+
+**Today's Progress**: Added functionality to copy hex to clipboard
+
+**Thoughts**: Major styling needed.
+
+**Link(s) to work**
+https://github.com/raidzklart/hexbot
