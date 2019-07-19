@@ -230,3 +230,13 @@ https://github.com/raidzklart/hexbot
 
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
+
+
+### Day 27: July 18, Thursday
+
+**Today's Progress**: Today I started learning about Redux on Free Code Camp
+
+**Thoughts**: Didn't feel motivated to style my colour picker/ hexbot so I found something else to do.
+
+**Link(s) to work**
+N/A
