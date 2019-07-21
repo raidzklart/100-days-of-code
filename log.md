@@ -10,6 +10,8 @@
 
 https://github.com/raidzklart/personal-site
 
+---
+
 ### Day 2: June 15, Saturday
 
 **Today's Progress**: I've finished customising the layout for the main, posts and individual post pages.
