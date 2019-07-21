@@ -240,3 +240,13 @@ https://github.com/raidzklart/hexbot
 
 **Link(s) to work**
 N/A
+
+
+### Day 28,29: July 19, 20, Friday, Saturday
+
+**Today's Progress**: Added a portfolio page to my jekyll website.
+
+**Thoughts**: Just need to get learn how to get Zapier to send me an email from the contact form and I'll put the site up!
+
+**Link(s) to work**
+https://github.com/raidzklart/personal-site
