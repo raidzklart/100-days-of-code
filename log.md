@@ -22,6 +22,8 @@ https://github.com/raidzklart/personal-site
 
 https://github.com/raidzklart/personal-site
 
+---
+
 ### Day 3: June 16, Sunday
 
 **Today's Progress**: I did the markup for the Free Code Camp Technical Documentation Page project and added the Materialize CSS framework. 
@@ -31,6 +33,8 @@ https://github.com/raidzklart/personal-site
 **Link(s) to work**
 
 https://github.com/raidzklart/FCC-Technical-Documentation-Page
+
+---
 
 ### Day 4: June 17, Monday
 
@@ -42,6 +46,8 @@ https://github.com/raidzklart/FCC-Technical-Documentation-Page
 
 https://github.com/raidzklart/FCC-Technical-Documentation-Page
 
+---
+
 ### Day 5: June 18, Tuesday
 
 **Today's Progress**: Started the Random Quote Machine challenge using React.
@@ -51,6 +57,8 @@ https://github.com/raidzklart/FCC-Technical-Documentation-Page
 **Link(s) to work**
 
 https://github.com/raidzklart/FCC-Random-Quote-Machine
+
+---
 
 ### Day 6: June 19, Wednesday
 
@@ -62,6 +70,8 @@ https://github.com/raidzklart/FCC-Random-Quote-Machine
 
 https://github.com/raidzklart/FCC-Random-Quote-Machine
 
+---
+
 ### Day 7: June 20, Thursday
 
 **Today's Progress**: From zero to all tests passing.
@@ -71,6 +81,8 @@ https://github.com/raidzklart/FCC-Random-Quote-Machine
 **Link(s) to work**
 
 https://github.com/raidzklart/fcc-markdown-previewer
+
+---
 
 ### Day 8: June 21, Friday
 
@@ -82,6 +94,8 @@ https://github.com/raidzklart/fcc-markdown-previewer
 
 https://github.com/raidzklart/personal-site
 
+---
+
 ### Day 9: June 23, Sunday
 
 **Today's Progress**: Edited CSS for my mardown previewer
@@ -90,6 +104,8 @@ https://github.com/raidzklart/personal-site
 
 **Link(s) to work**
 https://github.com/raidzklart/fcc-markdown-previewer
+
+---
 
 ### Day 10: June 24, Monday
 
@@ -100,6 +116,8 @@ https://github.com/raidzklart/fcc-markdown-previewer
 **Link(s) to work**
 https://github.com/raidzklart/fcc-calculator
 
+---
+
 ### Day 11: June 26, Wednesday
 
 **Today's Progress**: Continued the Free Code Camp Calculator project.
@@ -108,6 +126,8 @@ https://github.com/raidzklart/fcc-calculator
 
 **Link(s) to work**
 https://github.com/raidzklart/fcc-calculator
+
+---
 
 ### Day 12: June 27, Thursday
 
@@ -118,6 +138,8 @@ https://github.com/raidzklart/fcc-calculator
 **Link(s) to work**
 https://github.com/raidzklart/fcc-calculator
 
+---
+
 ### Day 13: June 29, Saturday
 
 **Today's Progress**: Started the FCC Pomodoro Clock project.
@@ -126,6 +148,8 @@ https://github.com/raidzklart/fcc-calculator
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+---
 
 ### Day 14: June 30, Sunday
 
@@ -136,6 +160,8 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
 
+---
+
 ### Day 15: July 01, Monday
 
 **Today's Progress**: Started implementing logic for the FCC Pomodoro Clock project.
@@ -144,6 +170,8 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+---
 
 ### Day 16: July 02, Tuesday
 
@@ -154,6 +182,8 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
 
+---
+
 ### Day 17: July 03, Wednesday
 
 **Today's Progress**: Continued implementing logic for the FCC Pomodoro Clock project.
@@ -162,6 +192,8 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
+
+---
 
 ### Day 18: July 04, Thursday
 
@@ -172,6 +204,8 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 **Link(s) to work**
 https://github.com/raidzklart/FCC-Pomodoro-Clock
 
+---
+
 ### Day 19: July 06, Saturday
 
 **Today's Progress**: Started on the FCC Drum Machine project.
@@ -180,6 +214,8 @@ https://github.com/raidzklart/FCC-Pomodoro-Clock
 
 **Link(s) to work**
 https://github.com/raidzklart/fcc-drum-machine
+
+---
 
 ### Day 19, 20, 21: July 07-09, Sunday - Tuesday
 
@@ -196,6 +232,7 @@ https://github.com/raidzklart/FCC-Technical-Documentation-Page
 https://github.com/raidzklart/FCC-Build-a-Tribute-Page  
 https://github.com/raidzklart/FCC-Build-a-Survey-Form
 
+---
 
 ### Day 22, 23: July 10-11, Wednesday, Thursday
 
@@ -206,6 +243,8 @@ https://github.com/raidzklart/FCC-Build-a-Survey-Form
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
 
+---
+
 ### Day 24: July 12, Friday
 
 **Today's Progress**: Implemented the API request.
@@ -214,6 +253,8 @@ https://github.com/raidzklart/hexbot
 
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
+
+---
 
 ### Day 25: July 15, Monday
 
@@ -224,6 +265,8 @@ https://github.com/raidzklart/hexbot
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
 
+---
+
 ### Day 26: July 17, Wednesday
 
 **Today's Progress**: Added functionality to copy hex to clipboard
@@ -233,6 +276,7 @@ https://github.com/raidzklart/hexbot
 **Link(s) to work**
 https://github.com/raidzklart/hexbot
 
+---
 
 ### Day 27: July 18, Thursday
 
@@ -243,6 +287,7 @@ https://github.com/raidzklart/hexbot
 **Link(s) to work**
 N/A
 
+---
 
 ### Day 28,29: July 19, 20, Friday, Saturday
 
@@ -252,3 +297,5 @@ N/A
 
 **Link(s) to work**
 https://github.com/raidzklart/personal-site
+
+---
