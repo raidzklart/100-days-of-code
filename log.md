@@ -299,3 +299,15 @@ N/A
 https://github.com/raidzklart/personal-site
 
 ---
+
+
+### Day 30, 31, 32: July 23, 24, 25, Tuesday, Wednesday, Thursday
+
+**Today's Progress**: Added Zapier to the form on my Jekyll website and did some tutorials online.
+
+**Thoughts**: I am going to add google analytics to my Jekyll site and then deploy I think. I need to learn to deploy things with a view to getting feedback and improving anyway!
+
+**Link(s) to work**
+https://github.com/raidzklart/personal-site
+
+---
