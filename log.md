@@ -301,7 +301,7 @@ https://github.com/raidzklart/personal-site
 ---
 
 
-### Day 30, 31, 32: July 23, 24, 25, Tuesday, Wednesday, Thursday
+### Day 30, 31, 32: July 23, 24, 25, Saturday, Sunday, Monday
 
 **Today's Progress**: Added Zapier to the form on my Jekyll website and did some tutorials online.
 
