@@ -325,7 +325,7 @@ https://github.com/raidzklart/personal-site
 
 ### Day 36, 37, 38: July 30 - August 1 Tuesday, Wednesday, Thursday
 
-**Today's Progress**: Fixed bugs and refactored by website. 
+**Today's Progress**: Fixed bugs and refactored my website. 
 
 **Thoughts**: Been looking for that bug for ages.
 
