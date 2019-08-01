@@ -301,7 +301,7 @@ https://github.com/raidzklart/personal-site
 ---
 
 
-### Day 30, 31, 32: July 23, 24, 25, Saturday, Sunday, Monday
+### Day 30, 31, 32: July 23, 24, 25, Tuesday, Wednesday, Thursday
 
 **Today's Progress**: Added Zapier to the form on my Jekyll website and did some tutorials online.
 
@@ -312,11 +312,22 @@ https://github.com/raidzklart/personal-site
 
 ---
 
-### Day 33, 34, 35: July 27, 28, 29, Tuesday, Wednesday, Thursday
+### Day 33, 34, 35: July 27, 28, 29, Saturday, Sunday, Monday
 
 **Today's Progress**: Deployed my website. 
 
 **Thoughts**: Still some things that need sorting but at least it's live. Also learnt how to get something out the door which is useful!
+
+**Link(s) to work**
+https://github.com/raidzklart/personal-site
+
+---
+
+### Day 36, 37, 38: July 30 - August 1 Tuesday, Wednesday, Thursday
+
+**Today's Progress**: Fixed bugs and refactored by website. 
+
+**Thoughts**: Been looking for that bug for ages.
 
 **Link(s) to work**
 https://github.com/raidzklart/personal-site
