@@ -333,3 +333,14 @@ https://github.com/raidzklart/personal-site
 https://github.com/raidzklart/personal-site
 
 ---
+
+### Day 39: August 2, Friday
+
+**Today's Progress**: Worked on implementing my Adobe XD design. 
+
+**Thoughts**: The website looks similar but not the same. Definitely not responsive either. Learnt more about CSS. Still find it the most difficult though.
+
+**Link(s) to work**
+https://github.com/raidzklart/signup-form
+
+---
