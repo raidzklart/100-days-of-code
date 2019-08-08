@@ -344,3 +344,11 @@ https://github.com/raidzklart/personal-site
 https://github.com/raidzklart/signup-form
 
 ---
+
+### Day 40, 41, 42, 43 - August 4-7: 
+
+**Today's Progress**:  More Hacker Rank exercises.
+
+**Thoughts**: Also found the Odin Project and Excercism.io. Will use these resources to add to my portfolio and do exercises.
+
+---
