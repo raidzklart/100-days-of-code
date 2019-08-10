@@ -352,3 +352,14 @@ https://github.com/raidzklart/signup-form
 **Thoughts**: Also found the Odin Project and Excercism.io. Will use these resources to add to my portfolio and do exercises.
 
 ---
+
+### Day 44, 45: August 9-10:
+
+**Today's Progress**: Did the Odin Project Google Homepage
+
+**Thoughts**: Pleased to have been able to do this in just a few hours. Not very responsive yet but I'll come back to that... one day.
+
+**Link(s) to work**
+https://github.com/raidzklart/google-homepage
+
+---
