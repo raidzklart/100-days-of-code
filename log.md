@@ -363,3 +363,14 @@ https://github.com/raidzklart/signup-form
 https://github.com/raidzklart/google-homepage
 
 ---
+
+### Day 46: August 11, Sunday:
+
+**Today's Progress**: Did Rock, Paper, Scissors for the Odin Project.
+
+**Thoughts**: This again didn't take very long for me. Might make a React version at some point with a nice(ish) interface.
+
+**Link(s) to work**
+https://github.com/raidzklart/rock-paper-scissors
+
+---
