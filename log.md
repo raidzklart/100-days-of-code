@@ -377,7 +377,7 @@ https://github.com/raidzklart/rock-paper-scissors
 
 ### Day 47: August 12, Monday:
 
-**Today's Progress**: Added simeple HTML UI for Rock, Paper, Scissors for the Odin Project.
+**Today's Progress**: Added simple HTML UI for Rock, Paper, Scissors for the Odin Project.
 
 **Thoughts**: I now understand the need for React et al. much better. Manipulating the DOM without a framework sucks even for a small project!
 
