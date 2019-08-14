@@ -396,3 +396,14 @@ https://github.com/raidzklart/rock-paper-scissors
 https://github.com/raidzklart/Etch-a-Sketch
 
 ---
+
+### Day 49: August 14, Wednesday:
+
+**Today's Progress**: Continued with the Etch-A-Sketch project for the Odin Project.
+
+**Thoughts**: I added buttons to clear, erase and draw on the grid but I couldn't figure out yet how to dynamically choose the number of rows and columns using javascript.
+
+**Link(s) to work**
+https://github.com/raidzklart/Etch-a-Sketch
+
+---
