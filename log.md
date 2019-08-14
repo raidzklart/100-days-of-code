@@ -385,3 +385,14 @@ https://github.com/raidzklart/rock-paper-scissors
 https://github.com/raidzklart/rock-paper-scissors
 
 ---
+
+### Day 48: August 13, Tuesday:
+
+**Today's Progress**: Started the Etch-A-Sketch project for the Odin Project.
+
+**Thoughts**: Didn't have much motivation today but I started anyway and then didn't really want to stop. Shame I need to go to bed. More DOM manipulation...
+
+**Link(s) to work**
+https://github.com/raidzklart/Etch-a-Sketch
+
+---
