@@ -407,3 +407,14 @@ https://github.com/raidzklart/Etch-a-Sketch
 https://github.com/raidzklart/Etch-a-Sketch
 
 ---
+
+### Day 50, 51: August 16, 17, Friday, Saturday:
+
+**Today's Progress**: Continued with the Etch-A-Sketch project for the Odin Project.
+
+**Thoughts**: I added functionality to allow user to choose number of rows/columns for grid, toggle grid lines and to draw in random colours. Now need to style everything.
+
+**Link(s) to work**
+https://github.com/raidzklart/Etch-a-Sketch
+
+---
