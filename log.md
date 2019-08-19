@@ -418,3 +418,14 @@ https://github.com/raidzklart/Etch-a-Sketch
 https://github.com/raidzklart/Etch-a-Sketch
 
 ---
+
+### Day 52: August 19, Monday:
+
+**Today's Progress**: Finished up with the Etch-A-Sketch project for the Odin Project.
+
+**Thoughts**: Styled it. There's some pieces that I could do a bit more to but I think it looks okay.
+
+**Link(s) to work**
+https://github.com/raidzklart/Etch-a-Sketch
+
+---
