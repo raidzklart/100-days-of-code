@@ -429,3 +429,15 @@ https://github.com/raidzklart/Etch-a-Sketch
 https://github.com/raidzklart/Etch-a-Sketch
 
 ---
+
+
+### Day 53: August 21, Wednesday:
+
+**Today's Progress**: Started the Blogger assignment for The Odin Project.
+
+**Thoughts**: Unfortunately I can't get my rails console to work which isn't helpful. Other than that, I still enjoy Ruby and Rails!
+
+**Link(s) to work**
+https://github.com/raidzklart/blogger
+
+---
