@@ -441,3 +441,14 @@ https://github.com/raidzklart/Etch-a-Sketch
 https://github.com/raidzklart/blogger
 
 ---
+
+### Day 54: August 22, Thursday:
+
+**Today's Progress**: Continued the Blogger assignment for The Odin Project.
+
+**Thoughts**: Used rbenv to install a new Ruby and that fixed the rails console issue. Finished chapters I0 and I1.
+
+**Link(s) to work**
+https://github.com/raidzklart/blogger
+
+---
