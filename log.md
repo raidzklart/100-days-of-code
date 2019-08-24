@@ -452,3 +452,14 @@ https://github.com/raidzklart/blogger
 https://github.com/raidzklart/blogger
 
 ---
+
+### Day 55: August 23, Friday:
+
+**Today's Progress**: Continued the Blogger assignment for The Odin Project.
+
+**Thoughts**: Finished chapters I2 and I3. Went pretty smooth but I had to google something about referential integrity at the end of chapter I3. It seems to work though...
+
+**Link(s) to work**
+https://github.com/raidzklart/blogger
+
+---
