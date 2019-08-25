@@ -463,3 +463,14 @@ https://github.com/raidzklart/blogger
 https://github.com/raidzklart/blogger
 
 ---
+
+### Day 56: August 24, Saturday:
+
+**Today's Progress**: Continued the Blogger assignment for The Odin Project.
+
+**Thoughts**: Finished chapter I4. All smooth again. Looking forward to the next chapter, authentication.
+
+**Link(s) to work**
+https://github.com/raidzklart/blogger
+
+---
