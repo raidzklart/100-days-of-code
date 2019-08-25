@@ -474,3 +474,14 @@ https://github.com/raidzklart/blogger
 https://github.com/raidzklart/blogger
 
 ---
+
+### Day 57: August 25, Sunday:
+
+**Today's Progress**: Finished the Blogger assignment for The Odin Project.
+
+**Thoughts**: Finished chapter I5, I might do some of the extras though because I've enjoyed it! Sorcery seems pretty straightforward to use although I don't know if it's production level or not.
+
+**Link(s) to work**
+https://github.com/raidzklart/blogger
+
+---
