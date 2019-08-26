@@ -485,3 +485,14 @@ https://github.com/raidzklart/blogger
 https://github.com/raidzklart/blogger
 
 ---
+
+### Day 58: August 26, Monday:
+
+**Today's Progress**: Did Building Blocks and half of Advanced Building Blocks exercises for the Odin Project
+
+**Thoughts**: Definitely have to think more with the advanced ones but it's good to test how much I really understand some of these things that I've previously assumed I did.
+
+**Link(s) to work**
+https://github.com/raidzklart/building-blocks
+
+---
