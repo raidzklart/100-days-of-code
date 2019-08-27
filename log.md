@@ -497,7 +497,7 @@ https://github.com/raidzklart/building-blocks
 
 ---
 
-### Day 59: August 27, Tuesdwy:
+### Day 59: August 27, Tuesday:
 
 **Today's Progress**: Continued with Advanced Building Blocks exercises for the Odin Project
 
