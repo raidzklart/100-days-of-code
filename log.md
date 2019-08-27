@@ -496,3 +496,15 @@ https://github.com/raidzklart/blogger
 https://github.com/raidzklart/building-blocks
 
 ---
+
+### Day 59: August 27, Tuesdwy:
+
+**Today's Progress**: Continued with Advanced Building Blocks exercises for the Odin Project
+
+**Thoughts**: Again had to think lots. Interesting seeing how enumerable methods can be implemented though. Definitely useful!
+
+**Link(s) to work**
+https://github.com/raidzklart/building-blocks
+
+---
+
