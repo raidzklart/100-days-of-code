@@ -508,3 +508,14 @@ https://github.com/raidzklart/building-blocks
 
 ---
 
+### Day 60: August 28, Wednesday:
+
+**Today's Progress**: Finished with Advanced Building Blocks exercises for the Odin Project and started the Tic Tac Toe assignment.
+
+**Thoughts**: Doing tic-tac-toe is helping me practise OOP. Managed to draw the board, let users choose their "weapons" (X/O) and update the board after user input.
+
+**Link(s) to work**
+https://github.com/raidzklart/building-blocks
+
+---
+
