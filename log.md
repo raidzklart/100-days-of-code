@@ -516,6 +516,18 @@ https://github.com/raidzklart/building-blocks
 
 **Link(s) to work**
 https://github.com/raidzklart/building-blocks
+https://github.com/raidzklart/tic-tac-toe
+
+---
+
+### Day 61: August 29, Thursday:
+
+**Today's Progress**: Finished the Tic Tac Toe assignment for the Odin Project.
+
+**Thoughts**: Had some trouble implementing the logic for detecting a winner. Would probably be a good idea to do some refactoring at some point.
+
+**Link(s) to work**
+https://github.com/raidzklart/tic-tac-toe
 
 ---
 
