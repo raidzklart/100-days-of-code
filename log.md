@@ -515,6 +515,7 @@ https://github.com/raidzklart/building-blocks
 **Thoughts**: Doing tic-tac-toe is helping me practise OOP. Managed to draw the board, let users choose their "weapons" (X/O) and update the board after user input.
 
 **Link(s) to work**
+
 https://github.com/raidzklart/building-blocks
 
 https://github.com/raidzklart/tic-tac-toe
