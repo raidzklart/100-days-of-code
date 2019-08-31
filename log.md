@@ -533,3 +533,14 @@ https://github.com/raidzklart/tic-tac-toe
 
 ---
 
+### Day 62: August 31, Saturday:
+
+**Today's Progress**: Started the Event Manager assignment for the Odin Project.
+
+**Thoughts**: This one is basically a tutorial so got through most of it pretty quickly. I got to the Clean Phone Numbers section but I'm tired so will carry on tomorrow or if I perk up a bit later.
+
+**Link(s) to work**
+https://github.com/raidzklart/event-manager
+
+---
+
