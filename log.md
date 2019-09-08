@@ -544,3 +544,14 @@ https://github.com/raidzklart/event-manager
 
 ---
 
+### Day 63: September 8, Sunday:
+
+**Today's Progress**: Implemented saving and loading games in the Hangman assignment for the Odin Project.
+
+**Thoughts**: I didn't know about serializing objects before so this was really fun! I have done coded most in the last week but been terrible at tracking so I will just carry on from the day I was at.
+
+**Link(s) to work**
+https://github.com/raidzklart/hangman
+
+---
+
