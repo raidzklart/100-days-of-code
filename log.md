@@ -555,3 +555,14 @@ https://github.com/raidzklart/hangman
 
 ---
 
+### Day 64: September 9, Monday:
+
+**Today's Progress**: Implemented fibonacci methods for the Odin Project.
+
+**Thoughts**: I actually found the recursive way much easier for some reason.
+
+**Link(s) to work**
+https://github.com/raidzklart/recursion
+
+---
+
