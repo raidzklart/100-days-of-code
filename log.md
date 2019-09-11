@@ -577,3 +577,14 @@ https://github.com/raidzklart/recursion
 
 ---
 
+### Day 66: September 11, Wednesday:
+
+**Today's Progress**: Implemented a linked list for the Odin Project, including the 2 methods for extra credit.
+
+**Thoughts**: I actually continued with merge sort last night and finished it. I'm enjoying this section of the Odin Project!
+
+**Link(s) to work**
+https://github.com/raidzklart/linked_list
+
+---
+
