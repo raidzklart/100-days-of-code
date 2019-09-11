@@ -566,3 +566,14 @@ https://github.com/raidzklart/recursion
 
 ---
 
+### Day 65: September 10, Tuesday:
+
+**Today's Progress**: Started implementing the merge sort algorithm for the Odin Project.
+
+**Thoughts**: I decided to start from just merging 2 arrays as it was the easiest part for me to understand. Tomorrow: divide and conquer!
+
+**Link(s) to work**
+https://github.com/raidzklart/recursion
+
+---
+
