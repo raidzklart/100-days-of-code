@@ -621,3 +621,14 @@ https://github.com/raidzklart/binary-tree
 
 ---
 
+### Day 70: September 15, Sunday:
+
+**Today's Progress**: Started on the Knights Travail. Started with nodes which will eventually make up a board.
+
+**Thoughts**: Need to take some time to write down how I'm going to solve this.
+
+**Link(s) to work**
+https://github.com/raidzklart/binary-tree
+
+---
+
