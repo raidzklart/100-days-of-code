@@ -588,3 +588,36 @@ https://github.com/raidzklart/linked_list
 
 ---
 
+### Day 67: September 12, Thursday:
+
+**Today's Progress**: Created the Node class and Binary tree class for the Odin Project, including method for building the tree.
+
+**Thoughts**: Didn't have as much time as I would have liked but having to leave it when I started getting stuck (starting to think about Breadth First Search) was probably a good thing. Sometimes I need to try harder to take breaks when I'm struggling.
+
+**Link(s) to work**
+https://github.com/raidzklart/binary-tree
+
+---
+
+### Day 68: September 13, Friday:
+
+**Today's Progress**: Implemented Breadth First Search algorithm for for the Odin Project.
+
+**Thoughts**: Coming back the following day made it much easier. Didn't take as long as I expected.
+
+**Link(s) to work**
+https://github.com/raidzklart/binary-tree
+
+---
+
+### Day 69: September 14, Saturday:
+
+**Today's Progress**: Implemented Depth First Search algorithm (both with a stack and a recursive version) for for the Odin Project.
+
+**Thoughts**: The recursive method still seems to make more sense somehow
+
+**Link(s) to work**
+https://github.com/raidzklart/binary-tree
+
+---
+
