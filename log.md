@@ -632,3 +632,14 @@ https://github.com/raidzklart/binary-tree
 
 ---
 
+### Day 71: September 16, Monday:
+
+**Today's Progress**: Continued Knights Travail. Implemented the board and started implementing the knight.
+
+**Thoughts**: Still need to take some time to write down how I'm going to solve this, was a bit tired today.
+
+**Link(s) to work**
+https://github.com/raidzklart/binary-tree
+
+---
+
