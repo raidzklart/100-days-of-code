@@ -643,3 +643,14 @@ https://github.com/raidzklart/binary-tree
 
 ---
 
+### Day 72: September 17, Tuesday:
+
+**Today's Progress**: Continued Knights Travails again. Today I continued with the knight, implemented possible moves.
+
+**Thoughts**: This is taking the longest out of any assignment so far.
+
+**Link(s) to work**
+https://github.com/raidzklart/binary-tree
+
+---
+
