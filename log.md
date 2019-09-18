@@ -654,3 +654,14 @@ https://github.com/raidzklart/binary-tree
 
 ---
 
+### Day 73: September 18, Wednesday:
+
+**Today's Progress**: Today I started over with the Knight and board in Knights Travails.
+
+**Thoughts**: Finally finished. Tomorrow I will start with the Rails bits of The Odin Project.
+
+**Link(s) to work**
+https://github.com/raidzklart/binary-tree
+
+---
+
