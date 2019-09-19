@@ -665,3 +665,14 @@ https://github.com/raidzklart/binary-tree
 
 ---
 
+### Day 74: September 19, Thursday:
+
+**Today's Progress**: Today I did the Jumpstart Labs Sinatra tutorial.
+
+**Thoughts**: Sinatra is pretty nice! Useful for smaller apps that don't need all the things that Rails has to offer.
+
+**Link(s) to work**
+https://github.com/raidzklart/web-guesser
+
+---
+
