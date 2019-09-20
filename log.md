@@ -676,3 +676,13 @@ https://github.com/raidzklart/web-guesser
 
 ---
 
+### Day 75: September 20, Friday:
+
+**Today's Progress**: Today I did another Jumpstart Labs Sinatra tutorial.
+
+**Thoughts**: I learnt about rackup and using YAML store as a development database which is pretty cool and I think will be useful when I do the reloaded Caesar Cipher for the Odin Project.
+
+**Link(s) to work**
+https://github.com/raidzklart/idea-box
+
+---
