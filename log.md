@@ -686,3 +686,14 @@ https://github.com/raidzklart/web-guesser
 https://github.com/raidzklart/idea-box
 
 ---
+
+### Day 76: September 21, Sunday:
+
+**Today's Progress**: Today continued with the Jumpstart Labs Sinatra tutorial.
+
+**Thoughts**: Good to learn more about better file structure and separating objects from their storage (i.e Idea vs IdeaStore)
+
+**Link(s) to work**
+https://github.com/raidzklart/idea-box
+
+---
