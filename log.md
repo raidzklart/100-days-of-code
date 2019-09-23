@@ -687,11 +687,22 @@ https://github.com/raidzklart/idea-box
 
 ---
 
-### Day 76: September 21, Sunday:
+### Day 76: September 22, Sunday:
 
 **Today's Progress**: Today continued with the Jumpstart Labs Sinatra tutorial.
 
 **Thoughts**: Good to learn more about better file structure and separating objects from their storage (i.e Idea vs IdeaStore)
+
+**Link(s) to work**
+https://github.com/raidzklart/idea-box
+
+---
+
+### Day 77: September 23, Monday:
+
+**Today's Progress**: Today finished the main part of the Jumpstart Labs Sinatra tutorial.
+
+**Thoughts**: Tomorrow I will implement some of the extension features. Users and Statistics seem interesting to me.
 
 **Link(s) to work**
 https://github.com/raidzklart/idea-box
