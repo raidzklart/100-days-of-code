@@ -708,3 +708,14 @@ https://github.com/raidzklart/idea-box
 https://github.com/raidzklart/idea-box
 
 ---
+
+### Day 78: September 24, Tuesday:
+
+**Today's Progress**: Today I added timestamps for new ideas to the Jumpstart Labs IdeaBox tutorial.
+
+**Thoughts**: Can view ideas grouped by day of the week. Unstyled HTML is ugly AF though!
+
+**Link(s) to work**
+https://github.com/raidzklart/idea-box
+
+---
