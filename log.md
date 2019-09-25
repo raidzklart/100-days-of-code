@@ -719,3 +719,15 @@ https://github.com/raidzklart/idea-box
 https://github.com/raidzklart/idea-box
 
 ---
+
+
+### Day 79: September 25, Wednesday:
+
+**Today's Progress**: Today I did the Caesar Cipher Reloaded assignment for The Odin Project.
+
+**Thoughts**: This was quite fun. Managed to get most of it done just by reading the docs. Needed Stack Overflow for a reminder of how to send variables from the app to the views.
+
+**Link(s) to work**
+https://github.com/raidzklart/caesar-cipher-reloaded
+
+---
