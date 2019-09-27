@@ -731,3 +731,15 @@ https://github.com/raidzklart/idea-box
 https://github.com/raidzklart/caesar-cipher-reloaded
 
 ---
+
+### Day 80,81: September 26,27, Thursday, Friday:
+
+**Today's Progress**: Completed the Odin Project rest-client assignment and read about routes, views and controllers in Rails.
+
+**Thoughts**: I had already used httparty for a web scraper before but the rest-client gem is nice too.
+
+**Link(s) to work**
+
+N/A
+
+---
