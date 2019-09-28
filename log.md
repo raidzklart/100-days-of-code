@@ -743,3 +743,15 @@ https://github.com/raidzklart/caesar-cipher-reloaded
 N/A
 
 ---
+
+### Day 82: September 28, Saturday:
+
+**Today's Progress**: Today I did the Odin Project Building with Active Record assignment and started the Forms and Authentication.
+
+**Thoughts**: The Odin Project is making Rails make a lot of sense!
+
+**Link(s) to work**
+
+N/A
+
+---
