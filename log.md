@@ -755,3 +755,27 @@ N/A
 N/A
 
 ---
+
+### Day 83: September 29, Sunday:
+
+**Today's Progress**: Today I finished the Odin Project Forms project.
+
+**Thoughts**: Interesting seeing the different form helpers that I didn't know about before
+
+**Link(s) to work**
+
+N/A
+
+---
+
+### Day 84: October 1, Tuesday:
+
+**Today's Progress**: Today I started the Odin Project "members-only" project.
+
+**Thoughts**: Just set up the models and tested in the rails console. All worked fine!
+
+**Link(s) to work**
+
+N/A
+
+---
