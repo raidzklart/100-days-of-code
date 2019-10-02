@@ -779,3 +779,15 @@ N/A
 N/A
 
 ---
+
+### Day 85: October 2, Wednesday:
+
+**Today's Progress**: Today I continued with the Odin Project "members-only" project.
+
+**Thoughts**: Worked on sessions. Had to refresh myself with the Hartl tutorial. Need to finish this tomorrow
+
+**Link(s) to work**
+
+N/A
+
+---
