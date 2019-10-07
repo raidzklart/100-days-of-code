@@ -791,3 +791,15 @@ N/A
 N/A
 
 ---
+
+### Day 86: October 7, Monday:
+
+**Today's Progress**: Today I decided to do a Rails version of the Eduonix Job Lister website.
+
+**Thoughts**: I always find it fun trying to copy something in a different language/ framework!
+
+**Link(s) to work**
+
+https://github.com/raidzklart/job-lister
+
+---
