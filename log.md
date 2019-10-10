@@ -803,3 +803,15 @@ N/A
 https://github.com/raidzklart/job-lister
 
 ---
+
+### Day 87: October 10, Thursday:
+
+**Today's Progress**: Today I continued with the Odin Project "members-only" project.
+
+**Thoughts**: I've had a lot of other things I've had to do lately but am going to get back into coding more regularly again. Railscasts has been useful for this authentication project!
+
+**Link(s) to work**
+
+N/A
+
+---
