@@ -815,3 +815,15 @@ https://github.com/raidzklart/job-lister
 N/A
 
 ---
+
+### Day 88: October 11, Friday:
+
+**Today's Progress**: Today I continued with the Odin Project "members-only" project.
+
+**Thoughts**: I continued with the authentication, added a 'remember me' permanent cookie.
+
+**Link(s) to work**
+
+N/A
+
+---
