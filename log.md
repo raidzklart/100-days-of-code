@@ -839,3 +839,15 @@ N/A
 N/A
 
 ---
+
+### Day 90: October 13, Sunday:
+
+**Today's Progress**: Today wasn't spent coding but I did some entity relationship diagrams for the private-events project on the Odin Project.
+
+**Thoughts**: I often don't do enough of the planning aspects, but they really help when I do!
+
+**Link(s) to work**
+
+N/A
+
+---
