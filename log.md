@@ -827,3 +827,15 @@ N/A
 N/A
 
 ---
+
+### Day 89: October 12, Saturday:
+
+**Today's Progress**: Today was mostly reading about Active Record queries and associations 
+
+**Thoughts**: The next few days I will continue reading/ watching videos to plan the private-events project.
+
+**Link(s) to work**
+
+N/A
+
+---
