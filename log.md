@@ -851,3 +851,15 @@ N/A
 N/A
 
 ---
+
+### Day 91: October 14, Monday:
+
+**Today's Progress**: Today I implemented CRUD for users, included sessions and worked on the Events for the Odin Project private-events assignment.
+
+**Thoughts**: I need to find some more resources about the how to code relationships in rails. I understand what I need to do regarding SQL but not in the Rails models.
+
+**Link(s) to work**
+
+N/A
+
+---
