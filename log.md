@@ -863,3 +863,15 @@ N/A
 N/A
 
 ---
+
+### Day 92: October 15, Tuesday:
+
+**Today's Progress**: Today I allowed users to invite guests to their event and changed the view so it shows the event host and guests for the Odin Project private-events assignment.
+
+**Thoughts**: I learnt about nested forms today. Useful stuff!
+
+**Link(s) to work**
+
+N/A
+
+---
