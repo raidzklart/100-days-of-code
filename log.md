@@ -875,3 +875,15 @@ N/A
 N/A
 
 ---
+
+### Day 93: October 16, Wednesday:
+
+**Today's Progress**: Today I continued with the private-events assignment. I added functionality so users can see the events they're attending.
+
+**Thoughts**: Learnt more about Active Record queries and how to do joins in Rails.
+
+**Link(s) to work**
+
+N/A
+
+---
