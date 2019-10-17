@@ -887,3 +887,14 @@ N/A
 N/A
 
 ---
+
+### Day 94: October 17, Thursday:
+
+**Today's Progress**: I finished the private-events assignment on the Odin Project. 
+**Thoughts**: Learnt about scopes for Models! Also read about callbacks in Rails.
+
+**Link(s) to work**
+
+N/A
+
+---
