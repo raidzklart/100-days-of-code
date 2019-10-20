@@ -898,3 +898,14 @@ N/A
 N/A
 
 ---
+
+### Day 95: October 19, Saturday:
+
+**Today's Progress**: Today I started the Flickr API assignment on the Odin Project. 
+**Thoughts**: I learnt about the figaro gem and initializers. Took a bit of googling to make everything work but I can now access images given a users ID.
+
+**Link(s) to work**
+
+N/A
+
+---
