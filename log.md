@@ -909,3 +909,14 @@ N/A
 N/A
 
 ---
+
+### Day 96: October 20, Sunday:
+
+**Today's Progress**: Today I continued with the Flickr API assignment on the Odin Project. 
+**Thoughts**: I added a form for users to enter a Flickr user's ID in order to see their photos. Tomorrow will I will add Bootstrap.
+
+**Link(s) to work**
+
+N/A
+
+---
