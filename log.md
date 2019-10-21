@@ -920,3 +920,14 @@ N/A
 N/A
 
 ---
+
+### Day 97: October 21, Monday:
+
+**Today's Progress**: Today I continued with the Flickr API assignment on the Odin Project again. 
+**Thoughts**: I added Bootstrap and customized some of the colours and fonts. The images are a carousel!
+
+**Link(s) to work**
+
+https://github.com/raidzklart/flickr-api
+
+---
