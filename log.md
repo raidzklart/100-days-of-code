@@ -931,3 +931,14 @@ N/A
 https://github.com/raidzklart/flickr-api
 
 ---
+
+### Day 98: October 24, Thursday:
+
+**Today's Progress**: Today I went back to the private-events assignment on the Odin Project again. 
+**Thoughts**: I added Bootstrap, now just need to think of a sensible layout.
+
+**Link(s) to work**
+
+https://github.com/raidzklart/flickr-api
+
+---
