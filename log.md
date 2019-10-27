@@ -942,3 +942,14 @@ https://github.com/raidzklart/flickr-api
 https://github.com/raidzklart/private-events
 
 ---
+
+### Day 99: October 26, Saturday:
+
+**Today's Progress**: I continued with the private-events assignment on the Odin Project. 
+**Thoughts**: Started adding Bootstrap selectors to HTML elements.
+
+**Link(s) to work**
+
+https://github.com/raidzklart/private-events
+
+---
