@@ -943,10 +943,10 @@ https://github.com/raidzklart/private-events
 
 ---
 
-### Day 99: October 26, Saturday:
+### Day 100: October 28, Monday:
 
 **Today's Progress**: I continued with the private-events assignment on the Odin Project. 
-**Thoughts**: Started adding Bootstrap selectors to HTML elements.
+**Thoughts**: Added a jumbotron for signup. Last day! I will do another round at some point, I've learnt a lot from doing 100 Days of Code!
 
 **Link(s) to work**
 
